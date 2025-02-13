@@ -1,7 +1,6 @@
 ---
 title: 'Tufte CSS'
 date: '2025-02-13T15:43:52-05:00'
-draft: true
 toc: true
 ---
 
