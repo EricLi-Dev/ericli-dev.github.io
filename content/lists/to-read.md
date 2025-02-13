@@ -1,14 +1,11 @@
 ---
-title: "Test List Post"
+title: "To Read"
 date: "2025-02-11"
-description: "Test Description"
-categories: 
-- "test"
 ---
 
-Lorem Ipsum. Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.
+A collection of books, essays, blogs, and others that I want to read.
 
-## TEST List Header
-
-[x] ABCD \
-[ ] Not yet
+## Blogs
+[Carmen Gutierrez](https://cguti.xyz/) \
+[Simon Boehm](https://siboehm.com/) \
+[Horace He](https://horace.io/)
